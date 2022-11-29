@@ -188,7 +188,7 @@ h1 {
 }
 
 #app-store-button {
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+  -webkit-tap-highlight-color: rgb(169,164,164);
   animation: rainbow-button 2s infinite;
   background-color: #00f8ff;
   border-radius: 18px;
@@ -211,7 +211,7 @@ h1 {
 }
 
 #app-store-button div {
-  background: url(app-store-button.svg) #000000 center no-repeat;
+  background: url(app-store-button.svg) #C0C0C0 center no-repeat;
   border-radius: 15.5px;
   height: 58px;
   left: 2.5px;
